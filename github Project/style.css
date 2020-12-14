@@ -1,0 +1,14 @@
+h1
+{
+    text-align: center;
+    color: white;
+    background-color: dodgerblue;
+}
+
+p
+{
+    text-align: center;
+    height: 20px;
+    background-color: red;
+    color: white;
+}
